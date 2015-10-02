@@ -2,8 +2,6 @@
 // Created by heath on 15-10-2.
 //
 #include <iostream>
-#include <string>
-#include <stdio.h>
 
 using namespace std;
 
