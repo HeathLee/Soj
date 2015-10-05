@@ -3,5 +3,5 @@ project(Soj)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES 1024.cpp)
+set(SOURCE_FILES 1152.cpp)
 add_executable(Soj ${SOURCE_FILES})
